@@ -1,0 +1,15 @@
+#carrusel{
+  height: 500px;
+  background-color: grey;
+  float: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+#barra_navegacion{
+  background: black;
+  margin-bottom: none;
+}
+.centered{
+  align-content: center;
+}
