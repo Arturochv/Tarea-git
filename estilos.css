@@ -11,5 +11,22 @@
   margin-bottom: none;
 }
 .centered{
-  align-content: center;
+
+  float: center;
+}
+
+.align{
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 149px;
+  margin-right: 149px;
+}
+
+body{
+  background-color: grey;
+}
+
+.margin{
+  margin-bottom: 30px;
 }
