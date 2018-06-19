@@ -44,6 +44,15 @@ body{
 
 .align2{
   float: right;
-  padding: 0px;
+  padding: 5px;
   width: 100%;
+  padding-left: 150px;
+}
+.align3{
+  padding-left: 150px;
+  padding-right: 10px;
+}
+.align4{
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
