@@ -15,16 +15,16 @@
   float: center;
 }
 
-.align{
+/* .align{
   float: left;
   margin-top: 20px;
   margin-bottom: 20px;
   margin-left: 149px;
   margin-right: 149px;
-}
+} */
 
 body{
-  background-color: grey;
+  /* background-color: grey; */
 }
 
 .margin{
@@ -42,7 +42,7 @@ body{
 
 }
 
-.align2{
+/* .align2{
   float: right;
   padding: 5px;
   width: 100%;
@@ -55,4 +55,35 @@ body{
 .align4{
   padding-left: 10px;
   padding-bottom: 10px;
+} */
+
+/* Margenes*/
+
+.mts {
+  margin-top: 5px;
+}
+
+.mtm {
+  margin-top: 10px;
+}
+
+.mtl {
+  margin-top: 20px;
+}
+
+.mbm {
+  margin-bottom: 10px;
+}
+
+.block-with-text {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 10;
+    -webkit-box-orient: vertical;
+}
+
+.line {
+  border-top:1px solid #8080803d;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
